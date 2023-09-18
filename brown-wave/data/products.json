@@ -1,0 +1,103 @@
+{
+    "products": [
+       
+        {
+            "id": 30,
+            "title": "Chocolate Bar",
+            "image": "./img/product/image_processing20201102-3800-6p75sx.jpg",
+            "price": 5,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 31,
+            "title": "Chocolate Truffle",
+            "image": "./img/product/image_processing20201102-9786-m4uwt4.jpg",
+            "price": 8,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 32,
+            "title": "Chocolate Assortment",
+            "image": "./img/product/image_processing20201102-13957-bdbdjf.jpg",
+            "price": 12,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 33,
+            "title": "Dark Chocolate",
+            "image": "./img/product/original-44d69dbd609badf768ed481c0d3d6892.jpg",
+            "price": 6,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 34,
+            "title": "Milk Chocolate",
+            "image": "./img/product/original-6379b83660ece78008738322edf81deb.jpg",
+            "price": 6,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 35,
+            "title": "White Chocolate",
+            "image": "./img/product/original-bd395ecdb86080167dab450042ecba5c.jpg",
+            "price": 6,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 36,
+            "title": "Chocolate Cupcake",
+            "image": "./img/product/original-d91a43f625d591a11de3f4d4249645a7.jpg",
+            "price": 4,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 37,
+            "title": "Chocolate Donut",
+            "image": "./img/product/b616d94d23576ea0cce64c51f62b465f.jpg",
+            "price": 3,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 38,
+            "title": "Chocolate Icon",
+            "image": "./img/product/dribbble_cupcake-icon.jpg",
+            "price": 2,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 39,
+            "title": "Chocolate Bar",
+            "image": "./img/product/7059dee9e4744adba66bc332db9e867c.png",
+            "price": 5,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 40,
+            "title": "Chocolate Truffle",
+            "image": "./img/product/8e211b5bf19227b6dd9c09f2408a4725.png",
+            "price": 8,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 41,
+            "title": "Chocolate Assortment",
+            "image": "./img/product/4c7ea71bf0b7041cfdd4ae0b2229cdb4.jpg",
+            "price": 12,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 42,
+            "title": "Chocolate Bar",
+            "image": "./img/product/4_1_chocolate_dribbble_design123_4x.jpg",
+            "price": 5,
+            "category": "Chocolate Products"
+        },
+        {
+            "id": 43,
+            "title": "Chocolate Truffle",
+            "image": "./img/product/4_1_chocolate_dribbble_design1vs2_4x.jpg",
+            "price": 8,
+            "category": "Chocolate Products"
+        }
+    ]
+}
